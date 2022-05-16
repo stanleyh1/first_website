@@ -1,0 +1,14 @@
+
+
+  body {background-color: antiquewhite;
+          }
+
+  hr { border-style: none;
+        border-top-style: dotted;
+        border-width: 5px;
+        border-color: silver;
+       width: 7%;}
+
+h1 {color: #cc0e74;
+      text-decoration: underline overline;}
+h3 {color: #cc0e74;}
